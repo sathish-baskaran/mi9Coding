@@ -1,0 +1,23 @@
+{
+  "name": "mi9Coding",
+  "version": "1.0.0",
+  "description": "mi9 conding",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathish-baskaran/mi9Coding.git"
+  },
+  "author": "SATHISH BASKARAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathish-baskaran/mi9Coding/issues"
+  },
+  "homepage": "https://github.com/sathish-baskaran/mi9Coding",
+  "dependencies": {
+    "express": "^4.11.2",
+    "underscore": "^1.7.0"
+  }
+}
